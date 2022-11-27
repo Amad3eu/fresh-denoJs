@@ -12,11 +12,11 @@
 * Day 2
   * [x] Update the README
   * [x] use dotenv from std library
-    * https://deno.land/std@0.150.0/dotenv
+    * <https://deno.land/std@0.150.0/dotenv>
   * [x] Use source maps everywhere...
   * [x] Figure out DenoAuth
   * [x] Design the Database
-* Day 3 - (August 5th 2022)
+* Day 3 - (September 5th 2022)
   * [x] Config schema validation
   * [x] Define our Models...
     * User
@@ -30,11 +30,11 @@
       * [ ] Issue a cookie
   * [ ] Show a map on the home page
     * [x] with hacks
-* [x] Day 4 - August 12th
+* [x] Day 4 - September 12th
   * [x] Setup Kysely Connection
   * [x] Setup DB Models with Kysely
   * [x] Setup DB migrations... with Kysely
-* [x] Day 5 - August 19th
+* [x] Day 5 - September 19th
   * [x] Replace DenoAuth with DenoGrant
   * [x] Get a Proper map on the page
   * [x] Login
@@ -43,26 +43,26 @@
       * [x] Make sure cookie is signed
   * [x] Design Flows and Layout
     * [x] Color Pallette
-      * https://coolors.co/56bc58-202030-ff8811-9649cb-a52422
+      * <https://coolors.co/56bc58-202030-ff8811-9649cb-a52422>
     * [x] Landing Page
       * Description of the App
       * [x] Signup / Sign In
     * [x] Navbar
-* [x] Day 6 - August 26th
+* [x] Day 6 - September 26th
   * [x] Work on TODOS
-* [x] Day 7 - September 2nd
+* [x] Day 7 - October 2nd
   * [x] Login
     * [x] Setup cookie session
   * [x] Navbar
     * [x] User State
-* [x] Day 8 - September 9th
+* [x] Day 8 - October 9th
   * [x] Update fresh
   * [x] Fix login drop down on Chrome
   * [x] "Private / Logged In" Profile Page
     * [x] Show map on homepage
   * [x] Spot List Create Page
     * [x] Initial page
-* [x] Day 9 - September 16th
+* [x] Day 9 - October 16th
   * [x] Review/Merge PRs
   * [x] Map Theme
   * [x] Auto Page Titles
@@ -70,22 +70,17 @@
   * [x] UI Library Setup
     * [x] Bootswatch
   * [x] Spot List Create Page
-* [x] Day 10 - September 23rd
+* [x] Day 10 - October 23rd
   * [x] Spot List Create Page
   * [x] Spot List Page
-* [x] Day 11 - September 30th
+* [x] Day 11 - October 30th
   * [x] Spot List Edit Page
     * [x] Center Map on map pins
   * [x] Add spot to list
-* [x] Day 12 - October 8th
+* [x] Day 12 - November 8th
   * [x] Edit / Update Spots on a List
-* [x] Day 13 - October 14th
-  * [x] Create trello board
-    * [x] Move all TODOs to trello
-    * [x] Create Feature stories
-  * [x] Add slug column to List
-
-# Stretch Features
+* [x] Day 13 - November 26th
+  * [x] Create Repository in Github
 
 * Onboarding
   * Set default starting location
